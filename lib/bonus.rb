@@ -25,3 +25,5 @@ epic_tragedy
 puts epic_tragedy[:montague][:hero][:status]
 puts epic_tragedy[:capulet][:heroine][:status]
 end
+
+bonus
